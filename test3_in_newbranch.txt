@@ -1,3 +1,3 @@
 test3 only in new branch
 
-Changes made in master branch
+Changes made only in new_branch
